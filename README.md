@@ -37,3 +37,7 @@ public function store(Request $request){
   return view('index');
 }
 ```
+
+```bash
+php artisan make:request StoreRequest
+```

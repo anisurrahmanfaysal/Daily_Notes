@@ -24,3 +24,5 @@ This is simple peragraph.
   - Introduction,
   - Introduction 2,
 - indexing 3
+
+<img src="images/1af0ca3f-5236-47a5-a487-32b49ec94f27.webp">

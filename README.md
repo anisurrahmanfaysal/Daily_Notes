@@ -26,3 +26,11 @@ This is simple peragraph.
 - indexing 3
 
 <img src="images/1af0ca3f-5236-47a5-a487-32b49ec94f27.webp">
+
+<hr>
+<br>
+
+public function store(Request $request){
+  dd($request->all());
+  return view('index');
+}

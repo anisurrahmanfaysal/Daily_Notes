@@ -29,8 +29,9 @@ This is simple peragraph.
 
 <hr>
 <br>
-
+php```
 public function store(Request $request){
   dd($request->all());
   return view('index');
 }
+```

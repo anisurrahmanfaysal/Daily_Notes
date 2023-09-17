@@ -28,6 +28,8 @@
  - [DataType](#datatype)
    # DataType <a name="datatype">
     <img src="images/1080p.jpg">
+    <img src="images/10820162.jpg">
+    <img src="images/wallpaper2you_136093.jpg">
    </a>
 </a>
 

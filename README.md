@@ -29,10 +29,27 @@
 ## C# <a name="c#">
  - [Introduction](#introduction)
  - [DataType](#datatype)
+   ### Introduction <a name="introduction">
+    <p>C# is pronounced "C-Sharp".
+
+It is an object-oriented programming language created by Microsoft that runs on the .NET Framework.
+
+C# has roots from the C family, and the language is close to other popular languages like C++ and Java.
+
+The first version was released in year 2002. The latest version, C# 11, was released in November 2022.
+
+C# is used for:</p>
+
+    - Mobile applications
+    - Desktop applications
+    - Web applications
+
+   </a>
+
    ### DataType <a name="datatype">
 
     <p>A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable</p>
-    
+
     <img src="images/0001.jpg">
     <img src="images/0002.jpg">
     </a>

@@ -11,24 +11,34 @@
   - [Linux Mint](#linuxmint)
   - [Ubuntu](#ubuntu)
 
+<br>
+<hr>
 
 - Programming Languages
   - [C](#c)
   - [C#](#c#)
   - [JavaScript](#javascript)
   - [PHP](#php)
-  
+
+<br>
+<hr>
+
 - Framework
   - [Laravel](#laravel)
 # Operating Systems
 ## Linux Mint <a name="linuxmint"></a>  
 ## Ubunto <a name="ubuntu"></a>
 
+<br>
+<hr>
+
 # Programming Languages
 ## C <a name="c"></a> 
 ## C# <a name="c#">
  - [Introduction](#introduction)
  - [DataType](#datatype)
+<br>
+<hr>
    ### Introduction <a name="introduction">
     <p>C# is pronounced "C-Sharp".
 
@@ -53,6 +63,8 @@
 
    </a>
 
+<br>
+<hr>
    ### DataType <a name="datatype">
 
     <p>A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable</p>
@@ -61,6 +73,9 @@
     <img src="images/0002.jpg">
     </a>
   </a>
+
+<br>
+<hr>
    
 
 

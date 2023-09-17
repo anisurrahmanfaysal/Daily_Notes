@@ -37,8 +37,8 @@
 ## Linux Mint <a name="linuxmint"></a>  
 ## Ubunto <a name="ubuntu"></a>
 
-  <br>
-  <hr>
+<br>
+<hr>
 
 # Programming Languages
 ## C <a name="c"></a> 
@@ -47,19 +47,19 @@
  - [Output](#output)
  - [DataType](#datatype)
 
-   <br>
-   <hr>
+<br>
+<hr>
 
-   ### Introduction <a name="introduction"></a>
-   <p>C# is pronounced "C-Sharp".
+### Introduction <a name="introduction"></a>
+<p>C# is pronounced "C-Sharp".
 
-   It is an object-oriented programming language created by Microsoft that runs on the .NET Framework.
+It is an object-oriented programming language created by Microsoft that runs on the .NET Framework.
 
-   C# has roots from the C family, and the language is close to other popular languages like C++ and Java.
+C# has roots from the C family, and the language is close to other popular languages like C++ and Java.
 
-   The first version was released in year 2002. The latest version, C# 11, was released in November 2022.
+The first version was released in year 2002. The latest version, C# 11, was released in November 2022.
 
-   C# is used for:</p>
+C# is used for:</p>
 
     - Mobile applications
     - Desktop applications
@@ -73,8 +73,8 @@
 
 
   
-  ### Output<a name="output"></a>
-   <p>To output values or print text in C#, you can use the WriteLine() method:</p>
+### Output<a name="output"></a>
+<p>To output values or print text in C#, you can use the WriteLine() method:</p>
    
    ```
        Console.WriteLine("Hello World!");
@@ -86,23 +86,23 @@
        Console.Write("Hello World! ");
    ```     
    
-  <br>
-  <hr>
+<br>
+<hr>
 
-   ### DataType <a name="datatype"></a>
+### DataType <a name="datatype"></a>
 
-  <p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
+<p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
 
-  <img src="images/0001.jpg">
-  <img src="images/0002.jpg">
+ <img src="images/0001.jpg">
+ <img src="images/0002.jpg">
 
     
 
    
 
 
-  <br>
-  <hr>
+<br>
+<hr>
    
 
 

@@ -8,7 +8,7 @@
 ## Topics
 
 - Operating Systems
-  - [Linux_Mint](#linuxmint)
+  - [Linux Mint](#linuxmint)
   - [Ubuntu](#ubuntu)
 
 

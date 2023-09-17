@@ -44,6 +44,7 @@
 ## C <a name="c"></a> 
 ## C# <a name="c#"></a>
  - [Introduction](#introduction)
+ - [Output](#output)
  - [DataType](#datatype)
 
       <br>
@@ -72,24 +73,35 @@
 
 
   
-
-      <br>
-      <hr>
+  ### Output<a name="output"></a>
+   <p>To output values or print text in C#, you can use the WriteLine() method:</p>
+     ```
+       Console.WriteLine("Hello World!");
+     ```
+     ```
+       Console.WriteLine(3 + 3);
+     ```
+     ```
+       Console.Write("Hello World! ");
+     ```     
+   
+  <br>
+  <hr>
 
    ### DataType <a name="datatype"></a>
 
-    <p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
+  <p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
 
-    <img src="images/0001.jpg">
-    <img src="images/0002.jpg">
+  <img src="images/0001.jpg">
+  <img src="images/0002.jpg">
 
     
 
    
 
 
-      <br>
-      <hr>
+  <br>
+  <hr>
    
 
 

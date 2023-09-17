@@ -7,16 +7,19 @@
 
 ## Topics
 - Programming Languages
-  - C
-  - C#
-  - JavaScript
+  - [C](#c)
+  - [C#](#c#)
+  - [JavaScript](#javascript)
   - [PHP](#php)
   
 -  Framework
   - New  
 - Operating Systems
 
- <a name="php">Home</a> 
+# PHP <a name="c">Home</a> 
+# PHP <a name="c#">Home</a> 
+# PHP <a name="javascript">Home</a> 
+# PHP <a name="php">Home</a> 
 
  this a home button discription.
 <br>

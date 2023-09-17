@@ -21,7 +21,8 @@
 - Framework
   - Laravel
 
-# Linux Mint <a name="linuxmint"></a>
+# Linux Mint <a name="linuxmint"></a>  
+# Ubunto <a name="ubuntu"></a>  
 # C <a name="c"></a> 
 # C# <a name="c#">
  - [Introduction](#introduction)

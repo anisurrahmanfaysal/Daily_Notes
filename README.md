@@ -9,7 +9,6 @@
 
 - Operating Systems
   - [Linux Mint](#linuxmint)
-  - [Ubuntu](#ubuntu)
 
 <br>
 <hr>
@@ -36,6 +35,11 @@
 # Operating Systems
 ## Linux Mint <a name="linuxmint"></a>  
  - [Run C# Code](#c#code)
+
+<br>
+<hr>
+
+### C# Code Run <a name="c#code"></a>
 
 <br>
 <hr>

@@ -6,13 +6,19 @@
 <hr>
 
 ## Topics
-- index 2
-  - Introduction,
-  - Introduction 2,
-- indexing 3
-- 
+- Programming Languages
+  - C
+  - C#
+  - JavaScript
+  - PHP
+  
+-  Framework
+- Operating Systems
+
+  
 <br>
 <hr>
+
 <img src="images/1af0ca3f-5236-47a5-a487-32b49ec94f27.webp">
 
 <hr>

@@ -41,6 +41,14 @@
 
 ### C# Code Run <a name="c#code"></a>
 
+```
+  dotnet new console --framework net7.0
+```
+
+```
+  dotnet run
+```
+
 <br>
 <hr>
 

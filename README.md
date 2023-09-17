@@ -13,8 +13,7 @@
   - PHP
   
 -  Framework
-  - Laravel
-  - MVC.Net Core
+  - New  
 - Operating Systems
 
   

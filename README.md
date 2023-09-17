@@ -114,6 +114,15 @@ In C#, there are different types of variables (defined with different keywords),
   string myText = "Hello";
 ```
 
+<p>This will declare the variable as "constant", which means unchangeable and read-only:</p>
+
+```C#
+  const int myNum = 15;
+  myNum = 20; // error
+```
+
+<p>Note: You cannot declare a constant variable without assigning the value. If you do, an error will occur: A const field requires a value to be provided.</p>
+
 <br>
 <hr>
 

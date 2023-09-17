@@ -23,7 +23,11 @@
 
 
 # C <a name="c"></a> 
-# C# <a name="c#"></a> 
+# C# <a name="c#">
+ - [Introduction](#introduction)
+ - [DataType](#datatype)
+</a> 
+
 # JavaScript <a name="javascript"></a> 
 # PHP <a name="php"></a> 
 

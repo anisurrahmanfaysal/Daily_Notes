@@ -18,9 +18,8 @@
   - [JavaScript](#javascript)
   - [PHP](#php)
   
--  Framework
+- Framework
   - Laravel
-  - MVC.Net Core
 
 
 # C <a name="c"></a> 

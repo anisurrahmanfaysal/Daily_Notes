@@ -20,7 +20,7 @@
   
 -  Framework
   - Laravel
-  - MVE.Net Core
+  - MVC.Net Core
 
 
 # C <a name="c"></a> 

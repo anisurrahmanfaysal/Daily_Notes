@@ -27,7 +27,8 @@
  - [Introduction](#introduction)
  - [DataType](#datatype)
    # DataType <a name="datatype">
-    <img src="images/c#_datatype.pdf">
+    <img src="images/c#_datatype-1.jpg">
+    <img src="images/c#_datatype-2.jpg">
    </a>
 </a> 
 

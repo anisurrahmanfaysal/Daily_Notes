@@ -25,19 +25,15 @@
 
 - Framework
   - [Laravel](#laravel)
-# Operating Systems
-## Linux Mint <a name="linuxmint"></a>  
-## Ubunto <a name="ubuntu"></a>
 
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<hr>
+
+# Operating Systems
+## Linux Mint <a name="linuxmint"></a>  
+## Ubunto <a name="ubuntu"></a>
 
 <br>
 <hr>

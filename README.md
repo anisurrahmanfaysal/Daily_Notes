@@ -1,5 +1,5 @@
 # Welcome To My Notes
-## I'm Anisur rahman Faysal.
+### I'm Anisur rahman Faysal.
 
 <br>
 <br>
@@ -8,7 +8,7 @@
 <p>As a Software developer I should maintain alaways github and I'm gonna notedown my learning topic here.</p>
 <hr>
 
-### Topics
+## Topics
 - index 2
   - Introduction,
   - Introduction 2,

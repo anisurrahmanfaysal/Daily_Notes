@@ -42,14 +42,14 @@
 
 # Programming Languages
 ## C <a name="c"></a> 
-## C# <a name="c#">
+## C# <a name="c#"></a>
  - [Introduction](#introduction)
  - [DataType](#datatype)
 
       <br>
       <hr>
 
-   ### Introduction <a name="introduction">
+   ### Introduction <a name="introduction"></a>
     <p>C# is pronounced "C-Sharp".
 
     It is an object-oriented programming language created by Microsoft that runs on the .NET Framework.
@@ -71,12 +71,12 @@
     - And much, much more!
 
 
-  </a>
+  
 
       <br>
       <hr>
 
-   ### DataType <a name="datatype">
+   ### DataType <a name="datatype"></a>
 
     <p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
 
@@ -85,8 +85,8 @@
 
     
 
-   </a>
-</a>
+   
+
 
       <br>
       <hr>

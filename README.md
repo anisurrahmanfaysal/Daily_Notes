@@ -43,14 +43,15 @@
 # Programming Languages
 ## C <a name="c"></a> 
 ## C# <a name="c#"></a>
- - [Introduction](#introduction)
- - [Output](#output)
- - [DataType](#datatype)
+ - [C# Introduction](#introduction)
+ - [C# Output](#output)
+ - [C# Variables](variables)
+ - [C# DataType](#datatype)
 
 <br>
 <hr>
 
-### Introduction <a name="introduction"></a>
+### C# Introduction <a name="introduction"></a>
 <p>C# is pronounced "C-Sharp".
 
 It is an object-oriented programming language created by Microsoft that runs on the .NET Framework.
@@ -74,7 +75,7 @@ C# is used for:</p>
 <br>
 <hr>
   
-### Output<a name="output"></a>
+### C# Output<a name="output"></a>
 <p>To output values or print text in C#, you can use the WriteLine() method:</p>
    
    ```
@@ -90,7 +91,12 @@ C# is used for:</p>
 <br>
 <hr>
 
-### DataType <a name="datatype"></a>
+### C# Variables <a name="variables"></a>
+
+<br>
+<hr>
+
+### C# DataType <a name="datatype"></a>
 
 <p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
 

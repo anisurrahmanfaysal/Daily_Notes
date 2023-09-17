@@ -106,7 +106,7 @@ In C#, there are different types of variables (defined with different keywords),
 <p>type variableName = value;</p>
 
 
-```
+```C#
   int myNum = 5;
   double myDoubleNum = 5.99D;
   char myLetter = 'D';

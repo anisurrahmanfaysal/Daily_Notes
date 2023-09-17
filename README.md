@@ -8,8 +8,8 @@
 ## Topics
 
 - Operating Systems
-  - [Linux Mint]
-  - [Ubuntu]
+  - [Linux Mint](#linuxmint)
+  - [Ubuntu](#ubuntu)
 
 
 - Programming Languages

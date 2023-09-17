@@ -26,14 +26,14 @@
 
 # Programming Languages
 ## C <a name="c"></a> 
-## C# <a name="c#">
+## C# <a name="c#"></a>
  - [Introduction](#introduction)
  - [DataType](#datatype)
-   ### DataType <a name="datatype">
+   ### DataType <a name="datatype"></a>
     <img src="images/0001.jpg">
     <img src="images/0002.jpg">
-   </a>
-</a>
+   
+
 
     
 

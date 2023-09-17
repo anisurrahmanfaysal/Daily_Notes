@@ -30,6 +30,9 @@
 ## Ubunto <a name="ubuntu"></a>
 
 <br>
+<br>
+<br>
+<br>
 <hr>
 
 # Programming Languages
@@ -69,11 +72,14 @@
 
    ### DataType <a name="datatype">
 
-    <p>A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable</p>
+    <p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
 
     <img src="images/0001.jpg">
     <img src="images/0002.jpg">
-    </a>
+
+    
+
+   </a>
   </a>
 
 <br>

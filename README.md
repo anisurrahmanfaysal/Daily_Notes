@@ -37,16 +37,17 @@
 ## Linux Mint <a name="linuxmint"></a>  
 ## Ubunto <a name="ubuntu"></a>
 
-<br>
-<hr>
+  <br>
+  <hr>
 
 # Programming Languages
 ## C <a name="c"></a> 
-## C# <a name="c#">
+    ## C# <a name="c#">
  - [Introduction](#introduction)
  - [DataType](#datatype)
-<br>
-<hr>
+
+      <br>
+      <hr>
 
    ### Introduction <a name="introduction">
     <p>C# is pronounced "C-Sharp".
@@ -70,10 +71,10 @@
     - And much, much more!
 
 
-   </a>
+  </a>
 
-<br>
-<hr>
+      <br>
+      <hr>
 
    ### DataType <a name="datatype">
 
@@ -87,8 +88,8 @@
    </a>
   </a>
 
-<br>
-<hr>
+      <br>
+      <hr>
    
 
 

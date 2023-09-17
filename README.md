@@ -39,6 +39,7 @@
  - [DataType](#datatype)
 <br>
 <hr>
+
    ### Introduction <a name="introduction">
     <p>C# is pronounced "C-Sharp".
 
@@ -65,6 +66,7 @@
 
 <br>
 <hr>
+
    ### DataType <a name="datatype">
 
     <p>A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable</p>

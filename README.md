@@ -103,7 +103,7 @@ In C#, there are different types of variables (defined with different keywords),
 - string - stores text, such as "Hello World". String values are surrounded by double quotes
 - bool - stores values with two states: true or false
 
-** <p>type variableName = value;</p> **
+**<p>type variableName = value;</p>**
 
 
 ```C#

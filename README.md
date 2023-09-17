@@ -26,9 +26,7 @@
 # C# <a name="c#">
  - [Introduction](#introduction)
  - [DataType](#datatype)
-   # DataType <a name"datatype">
-    <img src="images/1af0ca3f-5236-47a5-a487-32b49ec94f27.webp"
-   </a>
+   # DataType <a name="datatype"></a>
 </a> 
 
 # JavaScript <a name="javascript"></a> 

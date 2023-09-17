@@ -71,7 +71,8 @@ C# is used for:</p>
     - Database applications
     - And much, much more!
 
-
+<br>
+<hr>
   
 ### Output<a name="output"></a>
 <p>To output values or print text in C#, you can use the WriteLine() method:</p>

@@ -34,12 +34,12 @@
 
 # Operating Systems
 ## Linux Mint <a name="linuxmint"></a>  
- - [Run C# Code](#c#code)
+ - [Run C# Code using VS Code](#c#code)
 
 <br>
 <hr>
 
-### C# Code Run <a name="c#code"></a>
+### C# Code Run using VS Code <a name="c#code"></a>
 
 ```
   dotnet new console --framework net7.0

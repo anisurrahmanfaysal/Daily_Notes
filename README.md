@@ -26,11 +26,11 @@
 # C# <a name="c#">
  - [Introduction](#introduction)
  - [DataType](#datatype)
-   # DataType <a name="datatype">
+   # DataType <a name="datatype"></a>
+</a>
+
     <img src="images/c#_datatype-1.jpg">
     <img src="images/c#_datatype-2.jpg">
-   </a>
-</a> 
 
 # JavaScript <a name="javascript"></a> 
 # PHP <a name="php"></a> 

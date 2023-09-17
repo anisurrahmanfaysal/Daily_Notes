@@ -99,9 +99,11 @@
 ## PHP <a name="php"></a> 
 
 # Framework
-## Laravel <a name="laravel">
-  Introduction To Laravel.
-</a>
+## Laravel <a name="laravel"></a>
+  - Mastering
+  - CRUD
+  - Validation
+
 
 <br>
 <hr>

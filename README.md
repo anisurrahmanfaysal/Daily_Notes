@@ -2,9 +2,6 @@
 ### I'm Anisur rahman Faysal.
 
 <br>
-<br>
-<br>
-
 <p>As a Software developer I should maintain alaways github and I'm gonna notedown my learning topic here.</p>
 <hr>
 

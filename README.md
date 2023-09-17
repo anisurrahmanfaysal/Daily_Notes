@@ -42,7 +42,7 @@
 
 # Programming Languages
 ## C <a name="c"></a> 
-    ## C# <a name="c#">
+## C# <a name="c#">
  - [Introduction](#introduction)
  - [DataType](#datatype)
 

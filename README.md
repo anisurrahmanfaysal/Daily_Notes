@@ -162,9 +162,9 @@ In C#, there are different types of variables (defined with different keywords),
 
 # Framework
 ## Laravel <a name="laravel"></a>
-  - [Mastering]()
-  - [CRUD]
-  - [Validation]
+  - [Mastering](#mastering)
+  - [CRUD](#crud)
+  - [Validation](#validation)
 
 
 <br>

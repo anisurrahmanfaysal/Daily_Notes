@@ -5,7 +5,7 @@
 <p>As a Software developer I should maintain alaways github and I'm gonna notedown my learning topic here.</p>
 <hr>
 
-## [Topics](#topics)
+## Topics <a name="topics"></a>
 
 - Operating Systems
   - [Linux Mint](#linuxmint)
@@ -33,7 +33,7 @@
 <hr>
 
 # Operating Systems
-## Topics <a name="topics"></a> 
+## [Topics](#topics) 
 ## Linux Mint <a name="linuxmint"></a> 
  - [C# Project Create using VS Code](#c#create)
  - [C# Code Run using VS Code](#c#run)

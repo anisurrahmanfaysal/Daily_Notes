@@ -38,7 +38,7 @@
  - [C# Code Run using VS Code](#c#run)
 
 ### Installition
- - [Install XAMPP](#xampp)
+ - [Install & Uninstall XAMPP](#xampp)
 
 
 <br>

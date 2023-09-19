@@ -177,7 +177,14 @@ In C#, there are different types of variables (defined with different keywords),
 ## Laravel <a name="laravel"></a>
   - [Mastering](#mastering)
   - [CRUD](#crud)
-  - [Validation](#validation)
+  - [Auth](#auth)
+  - [Multi User Dashboard](#validation)
+  - [Middleware](#validation)
+  - [Eloquent ORM](#validation)
+  - [Query Builden](#validation)
+  - [API](#validation)
+  - [Mailing](#validation)
+  - [October CRM](#validation)
 
 
 <br>

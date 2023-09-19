@@ -39,6 +39,7 @@
 
 ### Installition
  - [Install & Uninstall XAMPP](#xampp)
+ - [When Apache Don't Run XAMPP](#apache)
 
 
 <br>
@@ -96,17 +97,31 @@
 
   - #### Step-1: Go to directory.
     ```
-      cd /opt/lampp
+    cd /opt/lampp
     ```
   - #### Step-2: Uninstall.
     ```
-      sudo ./uninstall
+    sudo ./uninstall
     ```
   - #### Step-2: Remove directory.
     ```
-      sudo rm –r /opt/lampp
+    sudo rm –r /opt/lampp
     ```
-  
+
+<br>
+<hr>
+
+### Apache Force Run<a name="apache"></a>
+
+- #### Step-1
+```
+sudo apachectl stop
+```
+- #### Step-2
+```
+sudo /opt/lampp/lampp start
+```
+
 <br>
 <hr>
 

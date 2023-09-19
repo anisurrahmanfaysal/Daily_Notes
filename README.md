@@ -72,10 +72,20 @@
 ### Install XAMPP <a name="xampp"></a>
  #### Prerequisites
 
+ #### Step-1: XAMPP requires the “net-tools” package to be installed on your system. This package can be installed by running the following command in the terminal:
  ```
    sudo apt install net-tools
  ```
 
+ #### Step-2: Downloading XAMPP via the Internet:
+
+   https://www.apachefriends.org/download.html
+
+ #### Step-3:
+
+ #### Step-4:
+
+ #### Step-5:
 <br>
 <hr>
 

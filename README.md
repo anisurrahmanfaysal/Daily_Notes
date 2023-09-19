@@ -49,21 +49,21 @@
 - Visual Studio Code with the C# extension installed. For information about how to install extensions on Visual Studio Code, see VS Code Extension Marketplace.
 - The .NET 7 SDK.
 
-  - #### Install
-    ```
-      sudo apt install dotnet-sdk-7.0
-    ```
-  - #### Remove
-    ```
-      sudo apt-get remove dotnet-sdk-7.0
-    ```
+- #### Install
+  ```
+  sudo apt install dotnet-sdk-7.0
+  ```
+- #### Remove
+  ```
+  sudo apt-get remove dotnet-sdk-7.0
+  ```
 ### C# Project Create using VS Code <a name="c#create"></a>
 ```
-  dotnet new console --framework net7.0
+dotnet new console --framework net7.0
 ```
 ### C# Code Run using VS Code <a name="c#run"></a>
 ```
-  dotnet run
+dotnet run
 ```
 - [Prerequisites for coding C# in VS Code](#c#prerequisites)
 
@@ -74,21 +74,21 @@
 
   - #### Step-1(Prerequisites): XAMPP requires the “net-tools” package to be installed on your system. This package can be installed by running the following command in the terminal:
   ```
-     sudo apt install net-tools
+  sudo apt install net-tools
   ```
 
   - #### Step-2: Downloading XAMPP via the Internet:
 
-       https://www.apachefriends.org/download.html
+    https://www.apachefriends.org/download.html
 
   - #### Step-3: Making the Downloaded File Executable:
   ```
-       sudo chmod 755 xampp-linux-x64-7.2.34-0-installer.run      
+  sudo chmod 755 xampp-linux-x64-7.2.34-0-installer.run      
   ```
 
   - #### Step-4: Installing XAMPP on Linux:
   ```
-       sudo ./xampp-linux-x64-7.2.34-0-installer.run
+  sudo ./xampp-linux-x64-7.2.34-0-installer.run
   ```
 <br>
 <br>
@@ -164,13 +164,13 @@ C# is used for:</p>
 <p>To output values or print text in C#, you can use the WriteLine() method:</p>
    
    ```
-       Console.WriteLine("Hello World!");
+   Console.WriteLine("Hello World!");
    ```
    ```
-       Console.WriteLine(3 + 3);
+   Console.WriteLine(3 + 3);
    ```
    ```
-       Console.Write("Hello World! ");
+   Console.Write("Hello World! ");
    ```     
    
 <br>

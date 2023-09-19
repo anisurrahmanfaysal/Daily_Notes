@@ -43,6 +43,9 @@
 ### Prerequisites for C# Code in VS Code <a name="c#prerequisites"></a>
   - Visual Studio Code with the C# extension installed. For information about how to install extensions on Visual Studio Code, see VS Code Extension Marketplace.
   - The .NET 7 SDK.
+    ```
+      sudo apt install dotnet-sdk-7.0
+    ```
 ### C# Project Create using VS Code <a name="c#create"></a>
 ```
   dotnet new console --framework net7.0

@@ -127,6 +127,7 @@ sudo /opt/lampp/lampp start
 <hr>
 
 # Programming Languages
+## [Topics](#topics)
 ## C <a name="c"></a> 
 ## C# <a name="c#"></a>
  - [C# Introduction](#introduction)
@@ -235,6 +236,7 @@ In C#, there are different types of variables (defined with different keywords),
 ## PHP <a name="php"></a> 
 
 # Framework
+## [Topics](#topics)
 ## Laravel <a name="laravel"></a>
   - [Mastering](#mastering)
   - [CRUD](#crud)

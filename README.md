@@ -33,13 +33,15 @@
 <hr>
 
 # Operating Systems
-## Linux Mint <a name="linuxmint"></a>  
- - [Run C# Code using VS Code](#c#code)
+## Linux Mint <a name="linuxmint"></a> 
+   [Prerequisites for C# in VS Code](#c#prerequisites)
+ - [C# Code Run using VS Code](#c#run)
 
 <br>
 <hr>
 
-### C# Code Run using VS Code <a name="c#code"></a>
+### Prerequisites for C# Code in VS Code <a name="c#prerequisites"></a>
+### C# Code Run using VS Code <a name="c#run"></a>
 
 ```
   dotnet new console --framework net7.0

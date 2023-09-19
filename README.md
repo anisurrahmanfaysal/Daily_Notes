@@ -64,7 +64,7 @@
 ```
   dotnet run
 ```
-- [Prerequisites for C# in VS Code](#c#prerequisites)
+- [Prerequisites for coding C# in VS Code](#c#prerequisites)
 
 <br>
 <hr>

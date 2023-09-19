@@ -40,12 +40,13 @@
 <hr>
 
 ### Prerequisites for C# Code in VS Code <a name="c#prerequisites"></a>
-### C# Code Run using VS Code <a name="c#run"></a>
-
+  - Visual Studio Code with the C# extension installed. For information about how to install extensions on Visual Studio Code, see VS Code Extension Marketplace.
+  - The .NET 7 SDK.
+### C# Project Create using VS Code <a name="c#run"></a>
 ```
   dotnet new console --framework net7.0
 ```
-
+### C# Code Run using VS Code <a name="c#run"></a>
 ```
   dotnet run
 ```

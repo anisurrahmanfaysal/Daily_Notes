@@ -39,9 +39,8 @@
 <br>
 <hr>
 
-
+### Prerequisites for C# Code in VS Code <a name="c#prerequisites"></a>
 ### C# Code Run using VS Code <a name="c#run"></a>
-  - [Prerequisites for C# in VS Code](#c#prerequisites)
 
 ```
   dotnet new console --framework net7.0
@@ -50,6 +49,7 @@
 ```
   dotnet run
 ```
+- [Prerequisites for C# in VS Code](#c#prerequisites)
 
 <br>
 <hr>

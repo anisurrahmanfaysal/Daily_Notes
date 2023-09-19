@@ -89,6 +89,9 @@
   ```
        sudo ./xampp-linux-x64-7.2.34-0-installer.run
   ```
+<br>
+<br>
+
   ### Uninstall XAMPP <a name="uninstall"></a>
 
   - #### Step-1: Go to directory.

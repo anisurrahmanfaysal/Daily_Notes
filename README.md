@@ -127,7 +127,6 @@ sudo /opt/lampp/lampp start
 <hr>
 
 # [Programming Languages](#pl)
-## [Topics](#topics)
 ## C <a name="c"></a> 
 ## C# <a name="c#"></a>
  - [C# Introduction](#introduction)

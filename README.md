@@ -34,6 +34,7 @@
 
 # Operating Systems
 ## Linux Mint <a name="linuxmint"></a> 
+ - [C# Project Create using VS Code](#c#create)
  - [C# Code Run using VS Code](#c#run)
 
 <br>
@@ -42,7 +43,7 @@
 ### Prerequisites for C# Code in VS Code <a name="c#prerequisites"></a>
   - Visual Studio Code with the C# extension installed. For information about how to install extensions on Visual Studio Code, see VS Code Extension Marketplace.
   - The .NET 7 SDK.
-### C# Project Create using VS Code <a name="c#run"></a>
+### C# Project Create using VS Code <a name="c#create"></a>
 ```
   dotnet new console --framework net7.0
 ```

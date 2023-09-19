@@ -34,14 +34,14 @@
 
 # Operating Systems
 ## Linux Mint <a name="linuxmint"></a> 
-   [Prerequisites for C# in VS Code](#c#prerequisites)
  - [C# Code Run using VS Code](#c#run)
 
 <br>
 <hr>
 
-### Prerequisites for C# Code in VS Code <a name="c#prerequisites"></a>
+
 ### C# Code Run using VS Code <a name="c#run"></a>
+  - [Prerequisites for C# in VS Code](#c#prerequisites)
 
 ```
   dotnet new console --framework net7.0

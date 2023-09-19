@@ -33,7 +33,7 @@
 <hr>
 
 # Operating Systems
-## [Topics](#topics) 
+ 
 ## Linux Mint <a name="linuxmint"></a> 
  - [C# Project Create using VS Code](#c#create)
  - [C# Code Run using VS Code](#c#run)

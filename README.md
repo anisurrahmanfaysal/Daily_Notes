@@ -50,13 +50,13 @@
 - The .NET 7 SDK.
 
 - #### Install
-  ```
-  sudo apt install dotnet-sdk-7.0
-  ```
+```
+sudo apt install dotnet-sdk-7.0
+```
 - #### Remove
-  ```
-  sudo apt-get remove dotnet-sdk-7.0
-  ```
+```
+sudo apt-get remove dotnet-sdk-7.0
+```
 ### C# Project Create using VS Code <a name="c#create"></a>
 ```
 dotnet new console --framework net7.0

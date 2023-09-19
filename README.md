@@ -70,6 +70,11 @@
 <hr>
 
 ### Install XAMPP <a name="xampp"></a>
+ #### Prerequisites
+
+ ```
+   sudo apt install net-tools
+ ```
 
 <br>
 <hr>

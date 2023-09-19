@@ -7,13 +7,13 @@
 
 ## Topics <a name="topics"></a>
 
-- Operating Systems
+- Operating Systems <a name="os"></a>
   - [Linux Mint](#linuxmint)
 
 <br>
 <hr>
 
-- Programming Languages
+- Programming Languages <a name="pl"></a>
   - [C](#c)
   - [C#](#c#)
   - [JavaScript](#javascript)
@@ -22,7 +22,7 @@
 <br>
 <hr>
 
-- Framework
+- Framework <a name="fw"></a>
   - [Laravel](#laravel)
 
 <br>
@@ -32,7 +32,7 @@
 <br>
 <hr>
 
-# Operating Systems
+# [Operating Systems](#os)
  
 ## Linux Mint <a name="linuxmint"></a> 
  - [C# Project Create using VS Code](#c#create)
@@ -126,7 +126,7 @@ sudo /opt/lampp/lampp start
 <br>
 <hr>
 
-# Programming Languages
+# [Programming Languages](#pl)
 ## [Topics](#topics)
 ## C <a name="c"></a> 
 ## C# <a name="c#"></a>
@@ -235,8 +235,8 @@ In C#, there are different types of variables (defined with different keywords),
 ## JavaScript <a name="javascript"></a> 
 ## PHP <a name="php"></a> 
 
-# Framework
-## [Topics](#topics)
+# [Framework](#fw)
+
 ## Laravel <a name="laravel"></a>
   - [Mastering](#mastering)
   - [CRUD](#crud)

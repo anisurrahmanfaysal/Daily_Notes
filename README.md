@@ -96,17 +96,17 @@ dotnet run
   ### Uninstall XAMPP <a name="uninstall"></a>
 
   - #### Step-1: Go to directory.
-    ```
-    cd /opt/lampp
-    ```
+  ```
+  cd /opt/lampp
+  ```
   - #### Step-2: Uninstall.
-    ```
-    sudo ./uninstall
-    ```
+  ```
+  sudo ./uninstall
+  ```
   - #### Step-2: Remove directory.
-    ```
-    sudo rm –r /opt/lampp
-    ```
+  ```
+  sudo rm –r /opt/lampp
+  ```
 
 <br>
 <hr>

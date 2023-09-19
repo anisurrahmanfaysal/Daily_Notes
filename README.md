@@ -37,12 +37,16 @@
  - [C# Project Create using VS Code](#c#create)
  - [C# Code Run using VS Code](#c#run)
 
+### Installition
+ - [Install XAMPP](#xampp)
+
+
 <br>
 <hr>
 
 ### Prerequisites for C# Code in VS Code <a name="c#prerequisites"></a>
-  - Visual Studio Code with the C# extension installed. For information about how to install extensions on Visual Studio Code, see VS Code Extension Marketplace.
-  - The .NET 7 SDK.
+- Visual Studio Code with the C# extension installed. For information about how to install extensions on Visual Studio Code, see VS Code Extension Marketplace.
+- The .NET 7 SDK.
 
   - #### Install
     ```
@@ -61,6 +65,11 @@
   dotnet run
 ```
 - [Prerequisites for C# in VS Code](#c#prerequisites)
+
+<br>
+<hr>
+
+### Install XAMPP <a name="xampp"></a>
 
 <br>
 <hr>

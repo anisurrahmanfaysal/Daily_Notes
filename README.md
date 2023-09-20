@@ -252,6 +252,7 @@ In C#, there are different types of variables (defined with different keywords),
 
 <br>
 <hr>
+
 # [Framework](#fW)
 ## Mastering <a name="mastering"></a> 
 ## CRUD <a name="crud"></a>

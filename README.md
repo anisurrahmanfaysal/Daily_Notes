@@ -256,7 +256,7 @@ In C#, there are different types of variables (defined with different keywords),
 # [Framework](#fW)
 ## Mastering <a name="mastering"></a> 
 ## [CRUD](#crudback) <a name="crud"></a>
- - [Create](#create)
+ - [Create](#create) <a name="createback"></a>
  - [Read](#read)
  - [Update](#update)
  - [Delete](#delete)
@@ -265,7 +265,7 @@ In C#, there are different types of variables (defined with different keywords),
 <hr>
 <br>
 
-### Create <a name="create"></a>
+### [Create](#createback) <a name="create"></a>
   - Create
   - Validation
   - Store

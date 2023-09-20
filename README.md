@@ -333,9 +333,11 @@ In C#, there are different types of variables (defined with different keywords),
     }
     ```
       - Resource Route:
-    ```
+   ```
     Route::resource('/contact', ContactController::class);
-    ```
+   ```
+      - Index to Route
+    
 
     
   - Validation

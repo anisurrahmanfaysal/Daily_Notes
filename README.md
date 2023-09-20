@@ -265,6 +265,13 @@ In C#, there are different types of variables (defined with different keywords),
 <hr>
 <br>
 
+### C# Introduction <a name="create"></a>
+  - Create
+  - Validation
+  - Store
+### C# Introduction <a name="read"></a>
+### C# Introduction <a name="update"></a>
+### C# Introduction <a name="delete"></a>
 
 
 

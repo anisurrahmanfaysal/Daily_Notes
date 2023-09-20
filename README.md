@@ -269,9 +269,9 @@ In C#, there are different types of variables (defined with different keywords),
   - Create
   - Validation
   - Store
-### [Read](#readback) <a name="create"></a>
-### [Update](#updateback) <a name="create"></a>
-### [Delete](#deleteback) <a name="create"></a>
+### [Read](#readback) <a name="read"></a>
+### [Update](#updateback) <a name="update"></a>
+### [Delete](#deleteback) <a name="delete"></a>
 
 
 

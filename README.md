@@ -269,8 +269,70 @@ In C#, there are different types of variables (defined with different keywords),
   - Create
       - Resource Controller:
     ```
-    php artisan make:controller ContactController -r
+    php artisan make:controller Frontend/ContactController -r
     ```
+
+    Then go: App\Http\Controllers\Frontend\Controller\ContractController
+    ```php
+    class ContactController extends Controller
+    {
+    /**
+     * Display a listing of the resource.
+     */
+    public function index()
+    {
+        //
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     */
+    public function create()
+    {
+        //
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     */
+    public function store(Request $request)
+    {
+        dd($request->all());
+    }
+
+    /**
+     * Display the specified resource.
+     */
+    public function show(string $id)
+    {
+        //
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     */
+    public function edit(string $id)
+    {
+        //
+    }
+
+    /**
+     * Update the specified resource in storage.
+     */
+    public function update(Request $request, string $id)
+    {
+        //
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     */
+    public function destroy(string $id)
+    {
+        //
+    }
+}
+```
   - Validation
   - Store
 ### [Read](#readback) <a name="read"></a>
@@ -279,13 +341,7 @@ In C#, there are different types of variables (defined with different keywords),
 
 
 
-```php
 
-public function store(Request $request){
-  dd($request->all());
-  return view('index');
-}
-```
 
 ```bash
 php artisan make:request StoreRequest

@@ -271,7 +271,6 @@ In C#, there are different types of variables (defined with different keywords),
     ```
     php artisan make:controller Frontend/ContactController -r
     ```
-
     Then go: App\Http\Controllers\Frontend\Controller\ContractController
     ```php
       class ContactController extends Controller
@@ -332,7 +331,13 @@ In C#, there are different types of variables (defined with different keywords),
           //
       }
     }
-```
+    ```
+      - Resource Route:
+    ```
+    Route::resource('/contact', ContactController::class);
+    ```
+
+    
   - Validation
   - Store
 ### [Read](#readback) <a name="read"></a>

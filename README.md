@@ -239,7 +239,7 @@ In C#, there are different types of variables (defined with different keywords),
 
 ## Laravel <a name="laravel"></a>
   - [Mastering](#mastering)
-  - [CRUD](#crud)
+  - [CRUD](#crud)<a name="crudback"></a>
   - [Auth](#auth)
   - [Multi User Dashboard](#validation)
   - [Middleware](#validation)
@@ -255,7 +255,7 @@ In C#, there are different types of variables (defined with different keywords),
 
 # [Framework](#fW)
 ## Mastering <a name="mastering"></a> 
-## CRUD <a name="crud"></a>
+## [CRUD](#crudback) <a name="crud"></a>
  - [Create](#create)
  - [Read](#read)
  - [Update](#update)

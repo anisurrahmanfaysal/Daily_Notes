@@ -267,6 +267,10 @@ In C#, there are different types of variables (defined with different keywords),
 
 ### [Create](#createback) <a name="create"></a>
   - Create
+      - Resource Controller:
+    ```
+    php artisan make:controller ContactController -r
+    ```
   - Validation
   - Store
 ### [Read](#readback) <a name="read"></a>

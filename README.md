@@ -257,9 +257,9 @@ In C#, there are different types of variables (defined with different keywords),
 ## Mastering <a name="mastering"></a> 
 ## [CRUD](#crudback) <a name="crud"></a>
  - [Create](#create) <a name="createback"></a>
- - [Read](#read)
- - [Update](#update)
- - [Delete](#delete)
+ - [Read](#read) <a name="readback"></a>
+ - [Update](#update) <a name="updateback"></a>
+ - [Delete](#delete) <a name="deleteback"></a>
 
 
 <hr>
@@ -269,9 +269,9 @@ In C#, there are different types of variables (defined with different keywords),
   - Create
   - Validation
   - Store
-### C# Introduction <a name="read"></a>
-### C# Introduction <a name="update"></a>
-### C# Introduction <a name="delete"></a>
+### [Read](#readback) <a name="create"></a>
+### [Update](#updateback) <a name="create"></a>
+### [Delete](#deleteback) <a name="create"></a>
 
 
 

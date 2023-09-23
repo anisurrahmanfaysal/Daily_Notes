@@ -40,7 +40,7 @@
  - [C# Code Run using VS Code](#c#run)
 
 ### Installition
- - [Install & Uninstall XAMPP](#xampp)
+ - [XAMPP Install & Uninstall](#xampp)
      - [When Apache Don't Run XAMPP](#apache)
    
  - [PHP Install & Uninstall](#php) <a name="phpback"></a>

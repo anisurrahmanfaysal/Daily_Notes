@@ -41,7 +41,9 @@
 
 ### Installition
  - [Install & Uninstall XAMPP](#xampp)
- - [When Apache Don't Run XAMPP](#apache)
+     - [When Apache Don't Run XAMPP](#apache)
+   
+ - [PHP Install & Uninstall](#php) <a name="phpback"></a>
 
 
 <br>
@@ -123,6 +125,11 @@ sudo apachectl stop
 ```
 sudo /opt/lampp/lampp start
 ```
+
+<br>
+<hr>
+
+### [PHP Install & Uninstall](#phpback) <a name="php"></a>
 
 <br>
 <hr>

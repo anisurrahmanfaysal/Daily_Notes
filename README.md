@@ -8,8 +8,9 @@
 
 ## Topics <a name="topics"></a>
 
-- Operating Systems <a name="os"></a>
+- Operating Systems And Command Line <a name="os"></a>
   - [Linux Mint](#linuxmint)
+  - [Github](#github) <a name="githubback"></a>
 
 <br>
 <hr>
@@ -130,6 +131,20 @@ sudo /opt/lampp/lampp start
 <hr>
 
 ### [PHP Install & Uninstall](#phpback) <a name="php"></a>
+
+#### Install PHP
+```
+sudo apt install php
+```
+#### Install Composer
+```
+sudo apt install composer
+```
+
+<br>
+<hr>
+
+## [Github](githubback) <a name="github"></a> 
 
 <br>
 <hr>

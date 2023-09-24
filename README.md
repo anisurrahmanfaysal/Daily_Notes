@@ -1,10 +1,10 @@
 # Welcome To My Notes
 ### I'm Anisur rahman Faysal.
-
+<p>As a Software developer I should maintain alaways github and I'm gonna notedown my learning topic here.</p>
 <br>
 
 <hr>
-<img src="images/banner.jpeg">
+
 
 ## Topics <a name="topics"></a>
 
@@ -30,7 +30,7 @@
 <br>
 <br>
 <br>
-<p>As a Software developer I should maintain alaways github and I'm gonna notedown my learning topic here.</p>
+<img src="images/banner-2.jpg">
 <br>
 <br>
 <hr>

@@ -30,7 +30,7 @@
 <br>
 <br>
 <br>
-<img src="images/banner-new.jpg">
+<img src="images/banner/banner-new.jpg">
 <br>
 <br>
 <hr>
@@ -147,6 +147,12 @@ sudo apt install composer
 
 ## [Github](#githubback) <a name="github"></a> 
 
+<img src="images/github/Git Commands-1.jpg">
+<img src="images/github/Git Commands-2.jpg">
+<img src="images/github/Git Commands-3.jpg">
+<img src="images/github/Git Commands-4.jpg">
+<img src="images/github/Git Commands-5.jpg">
+
 <br>
 <hr>
 
@@ -240,8 +246,8 @@ In C#, there are different types of variables (defined with different keywords),
 
 <p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
 
- <img src="images/0001.jpg">
- <img src="images/0002.jpg">
+ <img src="images/C#_datatype/0001.jpg">
+ <img src="images/C#_datatype/0002.jpg">
 
     
 

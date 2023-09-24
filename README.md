@@ -30,7 +30,7 @@
 <br>
 <br>
 <br>
-<img src="images/banner-2.jpg">
+<img src="images/banner-new.jpg">
 <br>
 <br>
 <hr>

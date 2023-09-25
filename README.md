@@ -40,16 +40,10 @@
 ## Linux Mint <a name="linuxmint"></a> 
 
 ### Basic Linux
-  - Show Apps
-  ```
-  dpkg --list
-  ```
-  Or
-  ```
-  apt list --installed
-  ```
 
+  
 
+ - [Show Apps](#c#showapps)
  - [C# Project Create using VS Code](#c#create)
  - [C# Code Run using VS Code](#c#run)
    
@@ -62,6 +56,16 @@
 
 <br>
 <hr>
+
+
+### Show Apps <a name="showapps"></a>
+  ```
+  dpkg --list
+  ```
+  Or
+  ```
+  apt list --installed
+  ```
 
 ### Prerequisites for C# Code in VS Code <a name="c#prerequisites"></a>
 - Visual Studio Code with the C# extension installed. For information about how to install extensions on Visual Studio Code, see VS Code Extension Marketplace.

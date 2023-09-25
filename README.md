@@ -43,7 +43,7 @@
 
   
 
- - [Show Apps](#c#showapps)
+ - [Show Apps](#showapps)
  - [C# Project Create using VS Code](#c#create)
  - [C# Code Run using VS Code](#c#run)
    

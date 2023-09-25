@@ -38,9 +38,21 @@
 # [Operating Systems](#os)
  
 ## Linux Mint <a name="linuxmint"></a> 
+
+### Basic Linux
+  - Show Apps
+  ```
+  dpkg --list
+  ```
+  Or
+  ```
+  apt list --installed
+  ```
+
+
  - [C# Project Create using VS Code](#c#create)
  - [C# Code Run using VS Code](#c#run)
-
+   
 ### Installition
  - [XAMPP Install & Uninstall](#xampp)
      - [When Apache Don't Run XAMPP](#apache)

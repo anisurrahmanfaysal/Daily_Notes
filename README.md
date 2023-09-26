@@ -183,6 +183,7 @@ sudo apt install php-common php-curl php-json php-readline php-fpm php-cli php-x
  - [C# Output](#output)
  - [C# Variables](#variables)
  - [C# DataType](#datatype)
+ - [C# Array](#array)
 
 <br>
 <hr>

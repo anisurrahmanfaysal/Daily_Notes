@@ -267,8 +267,8 @@ In C#, there are different types of variables (defined with different keywords),
 
 <p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
 
- <img src="images/C#_datatype/0001.jpg">
- <img src="images/C#_datatype/0002.jpg">
+<img src="images/C#_datatype/0001.jpg">
+<img src="images/C#_datatype/0002.jpg">
 
     
 

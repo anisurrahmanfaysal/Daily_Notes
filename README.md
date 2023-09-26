@@ -215,15 +215,15 @@ C# is used for:</p>
 ### C# Output<a name="output"></a>
 <p>To output values or print text in C#, you can use the WriteLine() method:</p>
    
-   ```
+```
    Console.WriteLine("Hello World!");
-   ```
-   ```
-   Console.WriteLine(3 + 3);
-   ```
-   ```
-   Console.Write("Hello World! ");
-   ```     
+```
+```
+Console.WriteLine(3 + 3);
+```
+```
+Console.Write("Hello World! ");
+```     
    
 <br>
 <hr>

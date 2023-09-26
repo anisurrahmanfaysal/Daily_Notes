@@ -157,6 +157,10 @@ sudo apt install php
 ```
 sudo apt install composer
 ```
+#### Dependency
+```
+sudo apt install php-common php-curl php-json php-readline php-fpm php-cli php-xml php-mcrypt php-zip php-mbstring php-gd
+```
 
 <br>
 <hr>

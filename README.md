@@ -267,8 +267,10 @@ In C#, there are different types of variables (defined with different keywords),
 
 <p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
 
-<img src="images/github/Git Commands-1.jpg">
+
 <img src="images/Csharp_datatype/csharp_datatype-1.jpg">
+<img src="images/Csharp_datatype/csharp_datatype-2.jpg">
+<img src="images/Csharp_datatype/0001.jpg">
 
 
 <br>

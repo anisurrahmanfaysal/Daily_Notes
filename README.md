@@ -270,10 +270,6 @@ In C#, there are different types of variables (defined with different keywords),
 <img src="images/C#_datatype/0001.jpg">
 <img src="images/C#_datatype/0002.jpg">
 
-    
-
-   
-
 
 <br>
 <hr>

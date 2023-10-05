@@ -281,8 +281,8 @@ In C#, there are different types of variables (defined with different keywords),
 <p>Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.</p>
 
 
-<img src="images/csharp_images/csharp_array/C#_array-1.jpg">">
-<img src="images/csharp_images/csharp_array/C#_array-2.jpg">">
+<img src="images/csharp_images/csharp_array/C#_array-1.jpg">
+<img src="images/csharp_images/csharp_array/C#_array-2.jpg">
 
 
 <br>

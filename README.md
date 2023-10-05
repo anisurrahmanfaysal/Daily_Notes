@@ -275,17 +275,6 @@ In C#, there are different types of variables (defined with different keywords),
 <br>
 <hr>
 
-### C# DataType <a name="datatype"></a>
-
-<p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
-
-
-<img src="images/csharp_images/csharp_array/C#_array-1.jpg">
-<img src="images/csharp_images/csharp_array/C#_array-2.jpg">
-
-
-<br>
-<hr>
 
 
 ### C# Array <a name="array"></a>

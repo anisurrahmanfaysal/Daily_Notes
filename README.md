@@ -268,8 +268,8 @@ In C#, there are different types of variables (defined with different keywords),
 <p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
 
 
-<img src="images/Csharp_datatype/csharp_datatype-1.jpg">
-<img src="images/Csharp_datatype/csharp_datatype-2.jpg">
+<img src="images/csharp_images/Csharp_datatype/csharp_datatype-1.jpg">
+<img src="images/csharp_images/Csharp_datatype/csharp_datatype-2.jpg">
 
 
 <br>
@@ -278,11 +278,11 @@ In C#, there are different types of variables (defined with different keywords),
 
 ### C# Array <a name="array"></a>
 
-<p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
+<p>Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.</p>
 
 
-<img src="images/Csharp_datatype/csharp_datatype-1.jpg">
-<img src="images/Csharp_datatype/csharp_datatype-2.jpg">
+<img src="images/csharp_images/csharp_array/C#_array-1.jpg">">
+<img src="images/csharp_images/csharp_array/C#_array-2.jpg">">
 
 
 <br>

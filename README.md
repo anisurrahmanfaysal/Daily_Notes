@@ -1,6 +1,6 @@
 # Welcome To My Notes
 ### I'm Anisur rahman Faysal.
-<p>As a Software developer I should maintain alaways github and I'm gonna notedown my learning topic here.</p>
+
 <br>
 
 <hr>
@@ -179,11 +179,11 @@ sudo apt install php-common php-curl php-json php-readline php-fpm php-cli php-x
 # [Programming Languages](#pl)
 ## C <a name="c"></a> 
 ## C# <a name="c#"></a>
- - [C# Introduction](#introduction)
- - [C# Output](#output)
- - [C# Variables](#variables)
- - [C# DataType](#datatype)
- - [C# Array](#array)
+ - [C# Introduction](#introduction) <a name="introduction"></a>
+ - [C# Output](#output) <a name="introduction"></a>
+ - [C# Variables](#variables) <a name="introduction"></a>
+ - [C# DataType](#datatype) <a name="introduction"></a>
+ - [C# Array](#array) <a name="arrayback"></a>
 
 <br>
 <hr>

@@ -282,6 +282,7 @@ In C#, there are different types of variables (defined with different keywords),
 
 
 <img src="images/csharp_images/csharp_array/C#_array-1.jpg">
+<img src="images/csharp_images/csharp_array/C#_array-2.jpg">
 
 
 <br>

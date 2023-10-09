@@ -180,9 +180,10 @@ sudo apt install php-common php-curl php-json php-readline php-fpm php-cli php-x
 ## C <a name="c"></a> 
 ## C# <a name="c#"></a>
  - [C# Introduction](#introduction) <a name="introduction"></a>
- - [C# Output](#output) <a name="introduction"></a>
- - [C# Variables](#variables) <a name="introduction"></a>
- - [C# DataType](#datatype) <a name="introduction"></a>
+ - [C# Output](#output) <a name="outputback"></a>
+ - [C# Variables](#variables) <a name="variablesback"></a>
+ - [C# DataType](#datatype) <a name="datatypeback"></a>
+ - [C# Methods](#methods) <a name="methodsback"></a>
  - [C# Array](#array) <a name="arrayback"></a>
  - [C# Operators](#operators) <a name="operatorsback"></a>
 
@@ -271,6 +272,19 @@ In C#, there are different types of variables (defined with different keywords),
 
 <img src="images/csharp_images/Csharp_datatype/csharp_datatype-1.jpg">
 <img src="images/csharp_images/Csharp_datatype/csharp_datatype-2.jpg">
+
+
+<br>
+<hr>
+
+
+### C# Methods <a name="methods"></a>
+
+<p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
+
+
+<img src="images/csharp_images/csharp string char methods/Important csharp String _ Char Methods-1.jpg">
+<img src="images/csharp_images/csharp string char methods/Important csharp String _ Char Methods-2.jpg">
 
 
 <br>

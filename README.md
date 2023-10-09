@@ -290,6 +290,28 @@ In C#, there are different types of variables (defined with different keywords),
 <p>A method is a code block that contains a series of statements</p>
 
 
+#### Write()
+<p>Console.Write is used to print data without printing the new line</p>
+
+```
+Console.Write();
+```
+
+#### WriteLine()
+<p>Console.WriteLine  is used to print data along with printing the new line.</p>
+
+```
+Console.WriteLine();
+```
+
+#### Parse()
+<p>Parse() converts the string data type to another data type.</p>
+
+```
+  int[] number = new int[3];
+  number = int.Parse();
+```
+
 <img src="images/csharp_images/csharp string char methods/Important csharp String _ Char Methods-1.jpg">
 <img src="images/csharp_images/csharp string char methods/Important csharp String _ Char Methods-2.jpg">
 

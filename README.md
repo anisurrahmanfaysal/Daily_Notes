@@ -292,7 +292,7 @@ In C#, there are different types of variables (defined with different keywords),
 
 ### C# Operators <a name="operators"></a>
 
-<p>Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.</p>
+<p>Operators, in C#, are symbols used within an expression or statement to specify the operations to be performed during evaluation of the expression.</p>
 
 
 <img src="images/csharp_images/csharp_operators/csharp_operators-1.jpg">

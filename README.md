@@ -181,8 +181,8 @@ sudo apt install php-common php-curl php-json php-readline php-fpm php-cli php-x
 ## C# <a name="c#"></a>
  - [C# Introduction](#introduction) <a name="introductionback"></a>
  - [C# Output](#output) <a name="outputback"></a>
- - [C# Variables](#variables) <a name="variablesback"></a>
  - [C# DataType](#datatype) <a name="datatypeback"></a>
+ - [C# Variables](#variables) <a name="variablesback"></a>
  - [C# Methods](#methods) <a name="methodsback"></a>
  - [C# Array](#array) <a name="arrayback"></a>
  - [C# Operators](#operators) <a name="operatorsback"></a>
@@ -233,6 +233,20 @@ Console.Write("Hello World! ");
 <hr>
 
 
+### [C# DataType](#datatypeback) <a name="datatype"></a>
+
+
+<p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
+
+
+<img src="images/csharp_images/Csharp_datatype/csharp_datatype-1.jpg">
+<img src="images/csharp_images/Csharp_datatype/csharp_datatype-2.jpg">
+
+
+<br>
+<hr>
+
+
 ### [C# Variables](#variablesback) <a name="variables"></a>
 
 
@@ -265,20 +279,6 @@ In C#, there are different types of variables (defined with different keywords),
 ```
 
 <p>Note: You cannot declare a constant variable without assigning the value. If you do, an error will occur: A const field requires a value to be provided.</p>
-
-<br>
-<hr>
-
-
-### [C# DataType](#datatypeback) <a name="datatype"></a>
-
-
-<p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
-
-
-<img src="images/csharp_images/Csharp_datatype/csharp_datatype-1.jpg">
-<img src="images/csharp_images/Csharp_datatype/csharp_datatype-2.jpg">
-
 
 <br>
 <hr>

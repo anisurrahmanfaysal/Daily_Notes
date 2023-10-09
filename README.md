@@ -312,6 +312,8 @@ Console.WriteLine();
   number = int.Parse();
 ```
 
+
+#### Important C# String and Char Methods
 <img src="images/csharp_images/csharp string char methods/Important csharp String _ Char Methods-1.jpg">
 <img src="images/csharp_images/csharp string char methods/Important csharp String _ Char Methods-2.jpg">
 

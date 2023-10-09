@@ -184,6 +184,7 @@ sudo apt install php-common php-curl php-json php-readline php-fpm php-cli php-x
  - [C# Variables](#variables) <a name="introduction"></a>
  - [C# DataType](#datatype) <a name="introduction"></a>
  - [C# Array](#array) <a name="arrayback"></a>
+ - [C# Operators](#operators) <a name="operatorsback"></a>
 
 <br>
 <hr>
@@ -284,6 +285,21 @@ In C#, there are different types of variables (defined with different keywords),
 
 <img src="images/csharp_images/csharp_array/csharp_array-1.jpg">
 <img src="images/csharp_images/csharp_array/csharp_array-2.jpg">
+
+
+<br>
+<hr>
+
+### C# Operators <a name="operators"></a>
+
+<p>Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.</p>
+
+
+<img src="images/csharp_images/csharp_operators/C#_operators-1.jpg">
+<img src="images/csharp_images/csharp_operators/C#_operators-2.jpg">
+<img src="images/csharp_images/csharp_operators/C#_operators-3.jpg">
+<img src="images/csharp_images/csharp_operators/C#_operators-4.jpg">
+<img src="images/csharp_images/csharp_operators/C#_operators-5.jpg">
 
 
 <br>

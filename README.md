@@ -215,7 +215,8 @@ C# is used for:</p>
 <br>
 <hr>
   
-### C# Output<a name="output"></a>
+### [C# Output](#outputback) <a name="output"></a>
+
 <p>To output values or print text in C#, you can use the WriteLine() method:</p>
    
 ```
@@ -231,7 +232,9 @@ Console.Write("Hello World! ");
 <br>
 <hr>
 
-### C# Variables <a name="variables"></a>
+
+### [C# Variables](#variablesback) <a name="variables"></a>
+
 
 <p>Variables are containers for storing data values.
 
@@ -266,7 +269,9 @@ In C#, there are different types of variables (defined with different keywords),
 <br>
 <hr>
 
-### C# DataType <a name="datatype"></a>
+
+### [C# DataType](#datatypeback) <a name="datatype"></a>
+
 
 <p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
 
@@ -279,7 +284,8 @@ In C#, there are different types of variables (defined with different keywords),
 <hr>
 
 
-### C# Methods <a name="methods"></a>
+### [C# Methods](#methodsback) <a name="methods"></a>
+
 
 <p>A method is a code block that contains a series of statements</p>
 
@@ -293,7 +299,7 @@ In C#, there are different types of variables (defined with different keywords),
 
 
 
-### C# Array <a name="array"></a>
+### [C# Array](#arrayback) <a name="array"></a>
 
 <p>Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.</p>
 
@@ -305,7 +311,8 @@ In C#, there are different types of variables (defined with different keywords),
 <br>
 <hr>
 
-### C# Operators <a name="operators"></a>
+### [C# Operators](#operatorsback) <a name="operators"></a>
+
 
 <p>Operators, in C#, are symbols used within an expression or statement to specify the operations to be performed during evaluation of the expression.</p>
 

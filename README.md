@@ -179,7 +179,7 @@ sudo apt install php-common php-curl php-json php-readline php-fpm php-cli php-x
 # [Programming Languages](#pl)
 ## C <a name="c"></a> 
 ## C# <a name="c#"></a>
- - [C# Introduction](#introduction) <a name="introduction"></a>
+ - [C# Introduction](#introduction) <a name="introductionback"></a>
  - [C# Output](#output) <a name="outputback"></a>
  - [C# Variables](#variables) <a name="variablesback"></a>
  - [C# DataType](#datatype) <a name="datatypeback"></a>
@@ -190,7 +190,8 @@ sudo apt install php-common php-curl php-json php-readline php-fpm php-cli php-x
 <br>
 <hr>
 
-### C# Introduction <a name="introduction"></a>
+### [C# Introduction](#introductionback) <a name="introduction"></a>
+
 <p>C# is pronounced "C-Sharp".
 
 It is an object-oriented programming language created by Microsoft that runs on the .NET Framework.
@@ -280,7 +281,7 @@ In C#, there are different types of variables (defined with different keywords),
 
 ### C# Methods <a name="methods"></a>
 
-<p> A data type specifies the size and type of variable values. It is important to use the correct data type for the corresponding variable </p>
+<p>A method is a code block that contains a series of statements</p>
 
 
 <img src="images/csharp_images/csharp string char methods/Important csharp String _ Char Methods-1.jpg">

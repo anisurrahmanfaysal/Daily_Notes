@@ -183,9 +183,10 @@ sudo apt install php-common php-curl php-json php-readline php-fpm php-cli php-x
  - [C# Output](#output) <a name="outputback"></a>
  - [C# DataType](#datatype) <a name="datatypeback"></a>
  - [C# Variables](#variables) <a name="variablesback"></a>
- - [C# Methods](#methods) <a name="methodsback"></a>
+ - [C# Method of string and char](#method) <a name="methodback"></a>
  - [C# Array](#array) <a name="arrayback"></a>
  - [C# Operators](#operators) <a name="operatorsback"></a>
+ - [C# Operators](#methods) <a name="methodsback"></a>
 
 <br>
 <hr>
@@ -284,7 +285,7 @@ In C#, there are different types of variables (defined with different keywords),
 <hr>
 
 
-### [C# Methods](#methodsback) <a name="methods"></a>
+### [C# Methods](#methodback) <a name="method"></a>
 
 
 <p>A method is a code block that contains a series of statements</p>

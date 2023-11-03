@@ -42,8 +42,6 @@
 ### Basic Linux
 
   
-
- - [](#)
  - [Add Banner In Terminal](#addbannerterminal) <a name="addbannerterminalback"></a>
  - [Show Apps](#showapps)
  - [C# Project Create using VS Code](#c#create)
@@ -59,7 +57,47 @@
 <br>
 <hr>
 
-### [PHP Install & Uninstall](#addbannerterminalback) <a name="addbannerterminal"></a>
+### [Add Banner In Terminal](#addbannerterminalback) <a name="addbannerterminal"></a>
+
+  #### Required App (figlet, lolcat)
+  ```
+  sudo apt install figlet lolcat
+  ```
+
+  #### To Know more about figlet
+  ```
+  man figlet
+  ```
+  #### Print Banner
+  ```
+  figlet "faySal"              recommented
+  figlet faySal
+  ```
+
+  #### Print Banner in center using '-c'
+  ```
+  figlet "faySal" -c
+  ```
+
+  #### Print Banner colourfull using 'lolcat'
+  ```
+  figlet "faySal" -c | lolcat
+  ```  
+
+  #### Add font style using '-f <fontname>'
+  ```
+  figlet -f slant -c "faySal" | lolcat
+  figlet -f digital -c "C# LARAVEL SWE" | lolcat
+  ```
+
+  #### To Print banner When Terminal start go to 'bashrc' file using nano
+  ```
+  nano ~/.bashrc
+  ``` 
+
+  #### Past 2 command botton in this bashrc file.
+  Save : Ctrl + o Then Enter
+  Exit :Ctrl + x
 
 ### Show Apps <a name="showapps"></a>
   ```

@@ -96,7 +96,7 @@
   ``` 
 
   #### Past 2 command botton in this bashrc file.
-  Save : Ctrl + o Then Enter
+  Save : Ctrl + o Then Enter <br>
   Exit :Ctrl + x
 
 ### Show Apps <a name="showapps"></a>

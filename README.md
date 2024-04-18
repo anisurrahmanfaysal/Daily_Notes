@@ -401,8 +401,16 @@ NB: Split store in string array veriable.
   Pen[] pens;
 ```
  ### [C# Array InitialiZation](#dsiBack)
- 
+```
+  numbers = new int[5];
+  pens = new Pen[5];
+```
  ### [C# Array Declaration and Initialization](#dsiBack) <a name="dsi"></a>
+```
+  int[] arrayExample = new int[5] { 4, 5, 7, 8, 3};
+  Pen[] penArrayExample = new Pen[3] { new Pen(Color.Red), new Pen(Color.Green), new Pen(Color.Blue) };
+```
+
 
 <p>Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.</p>
 

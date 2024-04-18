@@ -234,7 +234,7 @@ sudo apt install php-common php-curl php-json php-readline php-fpm php-cli php-x
  - [C# DataType](#datatype) <a name="datatypeback"></a>
  - [C# Variables](#variables) <a name="variablesback"></a>
  - [C# Method of string and char](#method) <a name="methodback"></a>
- - [C# Array](#array) <a name="arrayback"></a>
+ - [C# Arrays](#array) <a name="arrayback"></a>
  - [C# Operators](#operators) <a name="operatorsback"></a>
  - [C# Operators](#methods) <a name="methodsback"></a>
 
@@ -390,7 +390,14 @@ NB: Split store in string array veriable.
 
 
 
-### [C# Array](#arrayback) <a name="array"></a>
+### [C# Arrays](#arrayback) <a name="array"></a>
+
+ - [C# Array Declaration and Initialization](#des) <a name="desback"></a>
+ - [C# Array Manipulation](#output) <a name="outputback"></a>
+ - [C# Examples](#method) <a name="methodback"></a>
+ - [C# Parameter Arrays](#datatype) <a name="datatypeback"></a>
+ - [C# Multi-Dimensional Array](#variables) <a name="variablesback"></a>
+ - [C# Array Images](#arrayimages) <a name="arrayimagesback"></a>
 
 <p>Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.</p>
 

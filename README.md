@@ -418,11 +418,39 @@ NB: Split store in string array veriable.
 ```
 
  ### [C# Array Manipulation](#mBack) <a name="manipulation"></a>
+
+```
+static void Main(string[] args)
+{
+    int[] numbers = new int[5] { 4, 5, 7, 8, 3};
+           
+    for(int i = 0; i < numbers.Length; i++)
+    {
+        Console.WriteLine(numbers[i]);
+    }
+}
+```
+ 
  ### [C# Array Manipulation](#mBack) <a name="manipulation"></a>
+
+```
+```
  ### [C# Array Examples](#examplesBack) <a name="examples"></a>
+ 
+```
+```
  ### [C# Parameter Arrays](#parameterBack) <a name="parameter"></a>
+ 
+```
+```
  ### [C# Multi-Dimensional Array](#mdaBack) <a name="mda"></a>
+ 
+```
+```
  ### [C# Array Images](#arrayimagesBack) <a name="arrayimages"></a>
+ 
+```
+```
 
 
 <p>Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.</p>

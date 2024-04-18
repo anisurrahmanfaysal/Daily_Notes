@@ -424,7 +424,7 @@ NB: Split store in string array veriable.
 ## JavaScript <a name="javascript"></a> 
 ## PHP <a name="php"></a> 
 
-# [Framework](#fw)
+# [Framework](#fw.laravel)
 
 ## Laravel <a name="laravel"></a>
   - [Mastering](#mastering)
@@ -442,7 +442,6 @@ NB: Split store in string array veriable.
 <br>
 <hr>
 
-# [Framework](#fW.laravel)
 ## Mastering <a name="mastering"></a> 
 ## [CRUD](#crudback) <a name="crud"></a>
  - [Create](#create) <a name="createback"></a>

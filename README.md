@@ -388,14 +388,14 @@ NB: Split store in string array veriable.
 
 ### [C# Arrays](#arrayback) <a name="array"></a>
 
- - [C# Array Declaration and Initialization](#dsi) <a name="desback"></a>
+ - [C# Array Declaration and Initialization](#dsi) <a name="dsiBack"></a>
  - [C# Array Manipulation](#output) <a name="outputback"></a>
  - [C# Examples](#method) <a name="methodback"></a>
  - [C# Parameter Arrays](#datatype) <a name="datatypeback"></a>
  - [C# Multi-Dimensional Array](#variables) <a name="variablesback"></a>
  - [C# Array Images](#arrayimages) <a name="arrayimagesback"></a>
 
- ### [Declaration](#dsi)
+ ### [Declaration](#dsiBack) <a name="dsi"></a>
 
 <p>Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.</p>
 

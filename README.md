@@ -392,7 +392,7 @@ NB: Split store in string array veriable.
  - [C# Array Manipulation](#manipulation) <a name="mBack"></a>
  - [C# Array Examples](#examples) <a name="examplesBack"></a>
  - [C# Parameter Arrays](#parameter) <a name="parameterBack"></a>
- - [C# Multi-Dimensional Array](#variables) <a name="variablesback"></a>
+ - [C# Multi-Dimensional Array](#mda) <a name="mdaBack"></a>
  - [C# Array Images](#arrayimages) <a name="arrayimagesback"></a>
 
  ### [C# Array Declaration](#dsiBack)
@@ -421,6 +421,8 @@ NB: Split store in string array veriable.
  ### [C# Array Manipulation](#mBack) <a name="manipulation"></a>
  ### [C# Array Examples](#examplesBack) <a name="examples"></a>
  ### [C# Parameter Arrays](#parameterBack) <a name="parameter"></a>
+ ### [C# Multi-Dimensional Array](#mdaBack) <a name="mda"></a>
+ ### [C# Array Images](#arrayimagesBack) <a name="arrayimages"></a>
 
 
 <p>Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.</p>

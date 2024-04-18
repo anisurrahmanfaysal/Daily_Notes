@@ -25,6 +25,8 @@
   - [Laravel](#laravel)
 
 <br>
+<hr>
+
   - [JavaScript](#javascript)
   - [PHP](#php)
 

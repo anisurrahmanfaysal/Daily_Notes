@@ -395,7 +395,11 @@ NB: Split store in string array veriable.
  - [C# Multi-Dimensional Array](#variables) <a name="variablesback"></a>
  - [C# Array Images](#arrayimages) <a name="arrayimagesback"></a>
 
- ### [Declaration](#dsiBack) <a name="dsi"></a>
+ ### [Declaration](#dsiBack)
+ 
+ ### [InitialiZation](#dsiBack)
+ 
+ ### [Declaration and Initialization](#dsiBack) <a name="dsi"></a>
 
 <p>Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.</p>
 

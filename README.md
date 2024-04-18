@@ -18,6 +18,13 @@
 - Programming Languages <a name="pl"></a>
   - [C](#c)
   - [C#](#c#)
+  <br>
+<hr>
+
+- Framework <a name="fw"></a>
+  - [Laravel](#laravel)
+
+<br>
   - [JavaScript](#javascript)
   - [PHP](#php)
 

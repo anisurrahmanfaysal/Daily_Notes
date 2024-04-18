@@ -411,6 +411,7 @@ NB: Split store in string array veriable.
   Pen[] penArrayExample = new Pen[3] { new Pen(Color.Red), new Pen(Color.Green), new Pen(Color.Blue) };
 ```
  <p>or</p>
+ 
 ```
   int[] numbers = new int[2];
   numbers[0] = 5; numbers[1] = 7;

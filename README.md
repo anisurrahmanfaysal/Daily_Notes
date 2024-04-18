@@ -16,7 +16,6 @@
 <hr>
 
 - Programming Languages <a name="pl"></a>
-  - [C](#c)
   - [C#](#c#)
   <br>
 <hr>
@@ -26,9 +25,6 @@
 
 <br>
 <hr>
-
-  - [JavaScript](#javascript)
-  - [PHP](#php)
 
 <br>
 <hr>

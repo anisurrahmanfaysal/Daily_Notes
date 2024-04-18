@@ -410,6 +410,11 @@ NB: Split store in string array veriable.
   int[] arrayExample = new int[5] { 4, 5, 7, 8, 3};
   Pen[] penArrayExample = new Pen[3] { new Pen(Color.Red), new Pen(Color.Green), new Pen(Color.Blue) };
 ```
+ <p>or</p>
+```
+  int[] numbers = new int[2];
+  numbers[0] = 5; numbers[1] = 7;
+```
 
 
 <p>Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.</p>

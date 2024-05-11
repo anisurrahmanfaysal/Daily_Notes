@@ -207,6 +207,17 @@ sudo apt install composer
 ```
 sudo apt install php-common php-curl php-json php-readline php-fpm php-cli php-xml php-mcrypt php-zip php-mbstring php-gd
 ```
+#### Uninstall PHP
+<p>This command will match and remove all packages starting with ‘php’ followed by any version number.</p>
+```
+sudo apt purge php
+```
+#### Autoremove and Autoclean
+<p>After uninstalling PHP, you should clean up any unnecessary packages and dependencies</p>
+```
+sudo apt-get autoremove
+sudo apt-get autoclean
+```
 
 <br>
 <hr>
